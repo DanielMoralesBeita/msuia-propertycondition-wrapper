@@ -12,11 +12,15 @@ Normally, when using the raw MS UIA Framework creating a `PropertyCondition` to 
 
 `PropertyCondition`'s constructor takes an `AutomationProperty` and the value being tested against when searching as just an `object` type.  At runtime an exception will be thrown if the type of the value being tested is not the expected type.  
 
-This wrapper helps alleviate that pain by creating stronger typing around the value under test.  Here's an example:
+
+
+This wrapper helps alleviate that pain by creating stronger typing around the value under test. 
+
+Here's an example:
 
 `PropertyCondition myCondition = ConditionFactory.AutomationId.WithValue("myAutomationId");`
 
-OR
+and another:
 
 `PropertyCondition myCondition = ConditionFactory.ControlType.WithValue(ControlType.Button);`
 
