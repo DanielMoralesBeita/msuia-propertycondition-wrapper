@@ -2,7 +2,7 @@
 
 Helps make creating PropertyConditions with Microsoft's UIA Framework less painful and more strongly typed.
 
-[![NuGet Package](https://img.shields.io/badge/NuGet-v1.0-blue.svg)](https://www.nuget.org/packages/MS.UIA.PropertyConditions.Wrapper/1.0.6247.19457)
+[![NuGet Package](https://img.shields.io/badge/NuGet-v1-blue.svg)](https://www.nuget.org/packages/MS.UIA.PropertyConditions.Wrapper/1.0.6247.19457)
 
 ### What it does
 
