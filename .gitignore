@@ -1,29 +1,21 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
+*/**/Debug
+*/**/obj
+*/**/packages
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
 # Executables
 *.exe
 *.out
 *.app
+
+MS\.UIA\.PropertyCondition\.Wrapper/MS\.UIA\.PropertyCondition\.Wrapper/obj/Debug/
+
+MS\.UIA\.PropertyCondition\.Wrapper/packages/NUnit\.3\.0\.1/lib/net20/
+
+MS\.UIA\.PropertyCondition\.Wrapper/packages/NUnit\.3\.0\.1/lib/dotnet/
+
+MS\.UIA\.PropertyCondition\.Wrapper/Ms\.UIA\.PropertyCondition\.Wrapper\.Tests/obj/Debug/
